@@ -1,3 +1,4 @@
+WitMotion WTVB02-485
 3-Axis Vibrometer Data Reader
 
 options:
